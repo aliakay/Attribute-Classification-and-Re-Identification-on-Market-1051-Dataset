@@ -22,6 +22,8 @@ We have done hyperparameter Tuning for classification part. You can find the cod
 
 
 ## Re idendification Part
+
+I used triplet loss for the person re-identification problem.
 You can find the code also in [Google COLAB](https://colab.research.google.com/drive/1Wtwbjq9X8CGvbmDKrinpqVwsEl3D18NR?usp=sharing) 
 
 ## Contributing
