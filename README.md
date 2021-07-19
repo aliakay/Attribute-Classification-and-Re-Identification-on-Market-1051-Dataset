@@ -5,6 +5,9 @@
 *   Prof: [Elisa Ricci](http://elisaricci.eu) 
 *   Teaching Assistant: [Willi Menapace ](https://www.willimenapace.com)
 
+
+In this assignment, we demonstrate the usage of neural networks to solve two common computer vision tasks using the ResNet50 pre-trained model by PyTorch framework. Market-1051 dataset is video-surveillance dataset containing images of multiple persons each of which is captured multiple times by different cameras along with a set of annotations that specify attributes of each person such as age, gender and clothing. The first part of the assignment, we have done multi-class classifier task to predict attributes for each image. In the second part of the assignment, we tried to solve a person re-identification problem using triplet loss.
+
 **Students**
 
 *   Ali Akay
